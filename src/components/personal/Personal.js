@@ -8,7 +8,7 @@ const Personal = () => {
                 <img src={BackImage} alt="back" className="img-responsive"/>
             </div>
             <div className="portfolio-img">
-                <i class="fa fa-user"></i>
+                <i className="fa fa-user"></i>
             </div>
             <div className="portfolio-content">
                 <br/><br/>
