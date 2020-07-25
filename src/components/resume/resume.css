@@ -1,0 +1,37 @@
+.resumeInside{
+    margin-bottom: 25px;
+}
+
+.resumeInside p{
+    font-size: 15px;
+}
+
+.resumeInside .date{
+    color: #f0b517;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.resumeInside h5, .resumeInside h6{
+    color: #cccccc;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.resumeInside h5{
+    font-size: 16px;
+}
+
+.resumeInside h6{
+    font-size: 14px;
+}
+
+.skills h4{
+    margin: 15px 0;
+    color: #f0b517;
+}
+
+.skills p{
+    font-size: 15px;
+}
